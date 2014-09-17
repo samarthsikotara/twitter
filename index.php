@@ -26,7 +26,7 @@ $content = $connection->get('account/verify_credentials');
 $followers = $connection->get('followers/list');
 
 $userip = check_ip_behind_proxy();
-echo substr(md5(uniqid(rand(),true)),0,10);
+echo substr(md5(uniqid(rand(),true)),0,5);
 //echo $userip;
 $user = new user();
 $user->access_token = $access_token['oauth_token'];
