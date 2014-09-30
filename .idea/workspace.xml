@@ -4,7 +4,7 @@
     <list default="true" id="9f3d03d1-19aa-46c2-a485-ae7bb7274857" name="Default" comment="" />
     <ignored path="twitter.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.php" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1411546795493" ignored="false" />
+    <file path="/index.php" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1412068602635" ignored="false" />
     <file path="$PROJECT_DIR$/../Instagram-PHP-API-master/example/success.php" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1402049235419" ignored="false" />
     <file path="/success.php" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1402048926826" ignored="false" />
     <file path="$PROJECT_DIR$/../shaukk/templates/wistie/landing_center.tpl" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1402057042906" ignored="false" />
@@ -78,7 +78,7 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="2" selection-start="1163" selection-end="1163" vertical-scroll-proportion="0.425">
+            <state line="26" column="8" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.7519231">
               <folding />
             </state>
           </provider>
@@ -445,7 +445,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="2" selection-start="1163" selection-end="1163" vertical-scroll-proportion="0.425">
+        <state line="26" column="8" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.7519231">
           <folding />
         </state>
       </provider>

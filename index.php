@@ -24,11 +24,10 @@ $connection = new TwitterOAuth(CONSUMER_KEY, CONSUMER_SECRET, $access_token['oau
 /* If method is set change API call made. Test is called by default. */
 $content = $connection->get('account/verify_credentials');
 $followers = $connection->get('followers/list');
-print_r(json_encode($content));
+var_dump($content);
 //$userip = check_ip_behind_proxy();
 //echo substr(md5(uniqid(rand(),true)),0,5);
 //echo $userip;
-
 
 /*
 $user = new user();
