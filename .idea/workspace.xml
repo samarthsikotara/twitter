@@ -4,7 +4,7 @@
     <list default="true" id="9f3d03d1-19aa-46c2-a485-ae7bb7274857" name="Default" comment="" />
     <ignored path="twitter.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.php" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1406143339954" ignored="false" />
+    <file path="/index.php" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1411546795493" ignored="false" />
     <file path="$PROJECT_DIR$/../Instagram-PHP-API-master/example/success.php" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1402049235419" ignored="false" />
     <file path="/success.php" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1402048926826" ignored="false" />
     <file path="$PROJECT_DIR$/../shaukk/templates/wistie/landing_center.tpl" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1402057042906" ignored="false" />
@@ -16,7 +16,7 @@
     <file path="/clearsessions.php" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1402385426082" ignored="false" />
     <file path="/callback.php" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1402389213805" ignored="false" />
     <file path="/html.inc" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1403610302731" ignored="false" />
-    <file path="/Dummy.txt" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1405531806117" ignored="false" />
+    <file path="/Dummy.txt" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1411544818864" ignored="false" />
     <file path="/config.php" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1403605381644" ignored="false" />
     <file path="/user.php" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1404471887209" ignored="false" />
     <file path="/database.php" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1404984227355" ignored="false" />
@@ -46,6 +46,16 @@
     <file path="$PROJECT_DIR$/../php-activerecord/examples/simple/code.php" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1408610090574" ignored="false" />
     <file path="/code.php" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1408610007232" ignored="false" />
     <file path="$PROJECT_DIR$/../php-activerecord/examples/simple/simple.php" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1410273156889" ignored="false" />
+    <file path="$PROJECT_DIR$/../dev_nearbee/api/interfaces/postScribble.php" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1411400879374" ignored="false" />
+    <file path="/postScribble.php" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1411410960326" ignored="false" />
+    <file path="$PROJECT_DIR$/../dev_nearbee/api/classes/postScribble.php" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1411410961913" ignored="false" />
+    <file path="$PROJECT_DIR$/../dev_nearbee/api/interfaces/postScribbleClassInterface.php" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1411410406920" ignored="false" />
+    <file path="/postScribbleClassInterface.php" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1411408702439" ignored="false" />
+    <file path="$PROJECT_DIR$/../dev_nearbee/index.php" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1411410779578" ignored="false" />
+    <file path="$PROJECT_DIR$/../dev_nearbee/api/interfaces/feedClassInterface.php" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1411463075821" ignored="false" />
+    <file path="/feedClassInterface.php" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1411463075821" ignored="false" />
+    <file path="$PROJECT_DIR$/../dev_nearbee/api/classes/feedClass.php" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1411465112203" ignored="false" />
+    <file path="/feedClass.php" changelist="9f3d03d1-19aa-46c2-a485-ae7bb7274857" time="1411463081929" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,16 +78,16 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="22" selection-start="1409" selection-end="1409" vertical-scroll-proportion="0.03269231">
+            <state line="28" column="2" selection-start="1163" selection-end="1163" vertical-scroll-proportion="0.425">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/user.php">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="21" selection-start="949" selection-end="949" vertical-scroll-proportion="0.0">
+            <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -86,52 +96,16 @@
       <file leaf-file-name="database.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/database.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="19" selection-start="2225" selection-end="2225" vertical-scroll-proportion="-7.1923075">
+            <state line="3" column="2" selection-start="36" selection-end="36" vertical-scroll-proportion="-1.9615384">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="html.inc" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html.inc">
+      <file leaf-file-name="user.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="29" selection-start="1448" selection-end="1448" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="clearsessions.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/clearsessions.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="1" selection-start="131" selection-end="131" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OAuth.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/twitteroauth/OAuth.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="526" column="31" selection-start="15636" selection-end="15636" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="redirect.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/redirect.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="27" selection-start="288" selection-end="288" vertical-scroll-proportion="0.0">
+            <state line="45" column="39" selection-start="1709" selection-end="1709" vertical-scroll-proportion="-25.5">
               <folding />
             </state>
           </provider>
@@ -152,11 +126,11 @@
         <option value="$PROJECT_DIR$/redirect.php" />
         <option value="$PROJECT_DIR$/callback.php" />
         <option value="$PROJECT_DIR$/twitteroauth/twitteroauth.php" />
-        <option value="$PROJECT_DIR$/config.php" />
         <option value="$PROJECT_DIR$/html.inc" />
         <option value="$PROJECT_DIR$/user.php" />
-        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/config.php" />
         <option value="$PROJECT_DIR$/database.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -218,7 +192,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../php-activerecord" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dev_nearbee" />
     <property name="FullScreen" value="false" />
   </component>
   <component name="PublishConfig">
@@ -292,7 +266,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -300,7 +274,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22121212" sideWeight="0.6700855" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25151515" sideWeight="0.6700855" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -376,13 +350,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="43" selection-start="235" selection-end="235" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/connect.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="34" selection-start="612" selection-end="612" vertical-scroll-proportion="0.0" />
@@ -393,11 +360,6 @@
         <state line="80" column="9" selection-start="2485" selection-end="2485" vertical-scroll-proportion="0.3500967" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/callback.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="25" selection-start="1399" selection-end="1399" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/twitteroauth/twitteroauth.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="131" column="5" selection-start="4144" selection-end="4144" vertical-scroll-proportion="-0.65384614" />
@@ -406,13 +368,6 @@
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mysql.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="850" column="8" selection-start="28558" selection-end="28558" vertical-scroll-proportion="0.3507014" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="27" selection-start="288" selection-end="288" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_4.php">
@@ -453,23 +408,44 @@
         <state line="623" column="9" selection-start="17859" selection-end="17859" vertical-scroll-proportion="-0.47654784" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/user.php">
+    <entry file="file://$PROJECT_DIR$/callback.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="21" selection-start="949" selection-end="949" vertical-scroll-proportion="0.0">
+        <state line="35" column="25" selection-start="1399" selection-end="1399" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="22" selection-start="153" selection-end="153" vertical-scroll-proportion="0.22326455">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/database.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="19" selection-start="2225" selection-end="2225" vertical-scroll-proportion="-7.1923075">
+        <state line="3" column="2" selection-start="36" selection-end="36" vertical-scroll-proportion="-1.9615384">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="39" selection-start="1709" selection-end="1709" vertical-scroll-proportion="-25.5">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="22" selection-start="1409" selection-end="1409" vertical-scroll-proportion="0.03269231">
+        <state line="28" column="2" selection-start="1163" selection-end="1163" vertical-scroll-proportion="0.425">
           <folding />
         </state>
       </provider>
