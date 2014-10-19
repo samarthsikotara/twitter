@@ -11,6 +11,7 @@ require_once('config.php');
 require_once('user.php');
 
 echo "Yash Thaker";
+echo "helloooo";
 
 /* If access tokens are not available redirect to connect page. */
 if (empty($_SESSION['access_token']) || empty($_SESSION['access_token']['oauth_token']) || empty($_SESSION['access_token']['oauth_token_secret'])) {
